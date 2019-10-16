@@ -2,7 +2,11 @@
   <dictionary name="Christ">
     <words>
       <w>endfor</w>
+      <w>fieldset</w>
       <w>forloop</w>
+      <w>lconf</w>
+      <w>mysite</w>
+      <w>rgba</w>
     </words>
   </dictionary>
 </component>
